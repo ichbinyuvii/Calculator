@@ -1,5 +1,7 @@
 # YSN Advance Calculator
 
+Featured in the [YSN Portfolio](https://yuvrajsinghnegi.vercel.app/#projects).
+
 A browser-based calculator with a standard keypad and a set of supplementary math and utility tools.
 
 ![YSN Advance Calculator interface](https://yuvrajsinghnegi.vercel.app/images/projects/calculator.webp)
